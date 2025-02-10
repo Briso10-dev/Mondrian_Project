@@ -16,5 +16,5 @@ A project to design one of Mondrian painting tables
 
 ## Authors
 
-- [@Briso10-dev](https://github.com/Briso10-dev)
+- [Seraphin Brice Kouam](https://github.com/Briso10-dev)
 
